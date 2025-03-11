@@ -1,3 +1,4 @@
 **/*.o
 **/output_db
 **/codeql-pack.lock.yml
+.vscode
