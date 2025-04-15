@@ -2,3 +2,4 @@
 **/output_db
 **/codeql-pack.lock.yml
 .vscode
+.DS_Store
